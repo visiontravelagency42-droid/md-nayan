@@ -1,6 +1,3 @@
-[Uploading My Personal Cv.pdf…]()
-<img width="413" height="531" alt="image (1) (2)" src="https://github.com/user-attachments/assets/51bb541d-6e28-4acd-adda-afdf7fafc0d2" />
-[Uploading md_nayan_personal_website_index (1).html…]()
 <!doctype html>
 <html lang="bn">
 <head>
